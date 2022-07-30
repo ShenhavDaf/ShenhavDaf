@@ -5,7 +5,7 @@
 
 
 
-### Hi there 👋   I'm [Shenhav Dafadi](https://github.com/shenhavdaf)
+### Hi there 👋   I'm [Shenhav Dafadi](https://avatars.githubusercontent.com/u/75230461?v=4)
 
 - 💻 Currently I am a 3rd year Computer Science student (B.Sc.) at [College of management academic studies](https://english.colman.ac.il/), Israel. 
 
