@@ -7,8 +7,8 @@
 
 ### Hi there 👋   I'm [Shenhav Dafadi](https://avatars.githubusercontent.com/u/75230461?v=4)
 
-- 💻 Currently I am a 3rd year Computer Science student (B.Sc.) at [College of management academic studies](https://english.colman.ac.il/), Israel. 
-
+- 💻 B.Sc. in Computer Science with specialization in Full-Stack at [College of management academic studies](https://english.colman.ac.il/), Israel. 
+- Looking for my first software developer position
 
 
 ## Skills:
