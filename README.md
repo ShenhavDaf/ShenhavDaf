@@ -1,14 +1,8 @@
 
-<!--
-**ShenhavDaf/ShenhavDaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-
-
 ### Hi there 👋   I'm [Shenhav Dafadi](https://avatars.githubusercontent.com/u/75230461?v=4)
 
 - 💻 B.Sc. in Computer Science with specialization in Full-Stack at [College of management academic studies](https://english.colman.ac.il/), Israel. 
-- Looking for my first software developer position
+- Looking for my first software developer position (backend or full-stack)
 
 
 ## Skills:
@@ -39,22 +33,15 @@
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/shenhavdafadi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:shenhav.dafadi@gmail.com">![shenhav.dafadi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> shenhav.dafadi@gmail.com
+<a href="https://www.linkedin.com/in/shenhavdafadi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:shenhav.dafadi@gmail.com">![shenhav.dafadi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; &nbsp;shenhav.dafadi@gmail.com
 
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ShenhavDaf&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![Comments](https://github-readme-stats.vercel.app/api?username=ShenhavDaf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | ![Langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&hide_border=true) |
 | ------------- | ------------- |
 
-
-
-<!-- 
-----
-[<img src="https://github-profile-trophy.vercel.app/?username=ShenhavDaf&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=ShenhavDaf&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShenhavDaf&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShenhavDaf&theme=transparent)]-->
 
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
-
+<!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md -->
