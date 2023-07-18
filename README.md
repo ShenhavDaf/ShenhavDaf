@@ -38,8 +38,7 @@
 <br>
 <!-- ![Comments](https://github-readme-stats.vercel.app/api?username=ShenhavDaf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) -->
 
-| ![stars](https://readme-stats-fabio-vicente.vercel.app/api?username=ShenhavDaf&include_all_commits=true&count_private=true&show_icons=true) | ![Langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&hide_border=true) |
-| ------------- | ------------- |
+![Comments](https://readme-stats-fabio-vicente.vercel.app/api?username=ShenhavDaf&include_all_commits=true&count_private=true&show_icons=true&hide_border=true) ![Langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&hide_border=true)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShenhavDaf&theme=transparent)]-->
 
