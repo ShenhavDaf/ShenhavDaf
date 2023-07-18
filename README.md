@@ -36,8 +36,9 @@
 <a href="https://www.linkedin.com/in/shenhavdafadi">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="mailto:shenhav.dafadi@gmail.com">![shenhav.dafadi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> &nbsp; &nbsp;shenhav.dafadi@gmail.com
 
 <br>
+<!-- ![Comments](https://github-readme-stats.vercel.app/api?username=ShenhavDaf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) -->
 
-| ![Comments](https://github-readme-stats.vercel.app/api?username=ShenhavDaf&show_icons=true&include_all_commits=true&count_private=true&hide_border=true) | ![Langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&hide_border=true) |
+| ![stars](https://readme-stats-fabio-vicente.vercel.app/api?username=ShenhavDaf&include_all_commits=true&count_private=true&show_icons=true) | ![Langueges](https://github-readme-stats.vercel.app/api/top-langs/?username=ShenhavDaf&layout=compact&hide_border=true) |
 | ------------- | ------------- |
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShenhavDaf&theme=transparent)]-->
