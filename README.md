@@ -11,6 +11,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java-original)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)&nbsp;
@@ -19,7 +20,6 @@
 #### Database
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 
 
 #### IDEs & Frameworks
